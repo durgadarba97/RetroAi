@@ -45,6 +45,7 @@ Convergence of Q Learning:
 ## Results
 
 ![total rwards over time](docs/total_reward_9_10_24.png)
+![boxing](docs/ex_9_8_24.gif)
 
 ## TODO
 
