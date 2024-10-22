@@ -1,5 +1,7 @@
 # Q Learning Atari Agent
 
+![boxing](docs/ex_9_8_24.gif)
+
 ## Resources
 
 - [Q Learning](https://en.wikipedia.org/wiki/Q-learning)
